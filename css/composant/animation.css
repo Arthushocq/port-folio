@@ -1,0 +1,14 @@
+@keyframes rainbow {
+    from{background: rgb(50, 50, 50);
+    }10%{background: purple;
+    }20%{background: blue;
+    }30%{background: green;
+    }40%{background: orange;
+    }50%{background: red;
+    }60%{background: orange;
+    }70%{background: green;
+    }80%{background: blue;
+    }90%{background: purple;
+    }to{background: rgb(50, 50, 50);}
+
+}

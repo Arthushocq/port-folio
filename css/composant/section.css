@@ -1,0 +1,72 @@
+@import url(mosaïque.css);
+@import url(animation.css);
+
+
+.s{
+    text-align: center;
+}
+.s h2{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.s img{
+    width: 50%;
+    height: 60%;
+    margin-bottom: 10%;
+}
+
+
+.s1 {
+    text-align: center;
+}
+.s1 h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.s2 {
+    text-align: center;
+}
+.s2 h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.s3 {
+    text-align: center;
+}
+.s3 h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.s3 img:hover{
+    transition: all 1s;
+    transform: scale(230%);
+}
+
+
+.s4{
+    text-align: center;
+}
+.s4 h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.s4 p{
+    animation: rainbow 10s infinite;
+}
+
+
+.s5 {
+    text-align: center;
+}
+.s5 h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.s5 video{
+    width: 100%;
+    height: 100%;
+}
